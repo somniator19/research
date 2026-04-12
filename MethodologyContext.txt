@@ -1,0 +1,11 @@
+2. Methodology & Context
+
+This research is based on the analysis of publicly available information (open-source intelligence, OSINT). The data used in this report was collected from official sanctions lists, government publications, and reliable secondary sources such as international news and financial databases.
+
+The selected individuals represent different categories of politically exposed persons (PEPs), including political figures, economic actors (oligarchs), and technocratic officials. This approach allows for a more balanced comparison of how sanctions are applied across different roles and levels of influence.
+
+Sanctions data was primarily gathered from authorities such as the United States (OFAC), the European Union, and the United Kingdom. The analysis focuses on the presence or absence of sanctions, as well as general patterns in how individuals are designated across jurisdictions.
+
+It is important to note that this research does not aim to assess legal guilt or make political judgments. Instead, it focuses on risk classification within compliance systems and how different individuals are treated under existing regulatory frameworks.
+
+Due to the use of open sources, the analysis may be limited by the availability and completeness of public information. However, this approach reflects real-world practices in compliance and risk analysis, where structured use of accessible data plays a central role.
