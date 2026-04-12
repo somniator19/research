@@ -1,0 +1,7 @@
+1. Introduction: Understanding PEPs and AML Frameworks
+
+In the global effort to prevent financial crime, the concepts of Politically Exposed Persons (PEPs) and Anti-Money Laundering (AML) frameworks play a central role in risk detection and compliance. A PEP is typically defined as an individual who holds or has held a prominent public position, such as senior politicians, government officials, or high-ranking members of the judiciary or military. Due to their influence and access to resources, PEPs are considered higher-risk individuals and are therefore subject to enhanced due diligence (EDD) by financial institutions.
+
+AML frameworks include the laws and procedures designed to prevent the use of the financial system for illegal activities, such as money laundering or corruption. In recent years, particularly in the context of geopolitical tensions involving Russia, these frameworks have been actively applied through international sanctions regimes. Authorities such as the U.S. Office of Foreign Assets Control (OFAC), the European Union, and the United Kingdom have introduced measures targeting individuals with political or economic influence.
+
+This research examines the sanctions exposure of selected Russian PEPs. By comparing their designation across jurisdictions and analyzing differences in sanctions approaches, the report aims to highlight patterns in how political and economic actors are treated within modern compliance systems.
