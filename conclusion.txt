@@ -1,0 +1,9 @@
+6. Conclusion
+
+This research has examined the sanctions exposure of selected Russian politically exposed persons (PEPs), highlighting how different categories of individuals are treated within international AML and sanctions frameworks. By comparing political figures, economic actors, and technocratic officials, the analysis demonstrates that sanctions are applied in a differentiated manner, depending on the role, influence, and institutional context of each individual.
+
+The findings suggest that while senior political figures are consistently targeted across jurisdictions, oligarchic actors are often subject to asset-focused enforcement, and technocratic figures may be treated with greater selectivity. This reflects the complexity of modern sanctions regimes, where legal, economic, and systemic considerations intersect.
+
+At the same time, this research represents an introductory analysis based on open-source information. Further study could expand the scope by including additional jurisdictions, deeper network analysis, and more detailed financial data. Such approaches would provide a more comprehensive understanding of how PEP-related risks are identified and managed in practice.
+
+Overall, this project reflects a growing interest in the fields of OSINT-based research and regulatory compliance, and highlights the importance of structured analysis in understanding complex financial and political systems.

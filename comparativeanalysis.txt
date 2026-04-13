@@ -1,0 +1,15 @@
+5. Comparative Analysis
+
+The comparison of selected individuals highlights several important patterns in the application of international sanctions regimes. While all individuals are classified as politically exposed persons (PEPs), the nature and scope of sanctions vary significantly depending on their role within the political and economic system.
+
+First, a high level of consistency can be observed in the designation of senior political figures. Sergey Lavrov, as a high-ranking government official, is sanctioned across all major jurisdictions (US, EU, UK), reflecting a unified approach toward individuals directly associated with state decision-making. In such cases, sanctions are primarily linked to formal political responsibility rather than private economic activity.
+
+Second, oligarchic figures such as Oleg Deripaska and Alisher Usmanov are also widely designated across multiple jurisdictions. However, the enforcement mechanisms differ in emphasis. In these cases, sanctions tend to focus more heavily on private assets, including financial holdings, real estate, and corporate interests. This reflects the perception that economic actors represent risk through their control of capital and influence within strategic industries.
+
+At the same time, differences can be observed even within the category of oligarchic PEPs. Deripaska’s case demonstrates the complexity of sanctions enforcement, where corporate restructuring has been used to partially mitigate restrictions on associated entities. In contrast, Usmanov’s case shows a more direct focus on asset targeting, including luxury property and financial exposure. These differences suggest that sanctions frameworks may adapt depending on the structure of ownership and the level of integration within global markets.
+
+Finally, the case of Elvira Nabiullina illustrates a more selective and nuanced approach. As a technocratic PEP responsible for monetary policy and financial stability, she has not been uniformly designated across all major jurisdictions. This suggests that sanctions authorities may take into account the potential systemic impact of targeting key financial policymakers, leading to more cautious or differentiated enforcement.
+
+Overall, the analysis indicates that sanctions regimes are not applied uniformly, but rather reflect a combination of political, economic, and institutional considerations. The role of the individual—whether political, economic, or technocratic—plays a central role in determining both the likelihood of designation and the type of restrictions imposed. This highlights the importance of role-based risk classification within modern AML and compliance systems.
+
+These findings may have practical implications for risk assessment models used in financial institutions.
