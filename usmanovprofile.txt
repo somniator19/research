@@ -1,13 +1,22 @@
 3.2 Alisher Usmanov
 
-Alisher Usmanov is a Russian-Uzbek businessman and investor, widely known for his holdings in metals, mining, and telecommunications. He is considered a politically exposed person (PEP) due to his significant economic influence and longstanding ties to strategic sectors of the Russian economy.
+Alisher Usmanov is a Russian-Uzbek businessman and investor, primarily active in the metallurgy, mining, and telecommunications sectors. He is considered a politically exposed person (PEP) due to his significant economic influence and involvement in industries of strategic importance to the Russian economy.
 
-Usmanov built his wealth through investments in companies such as Metalloinvest and previously held a major stake in the telecommunications company MegaFon. His business activities span key industries, including steel production, mining, and digital infrastructure. These sectors are often regarded as strategically important, contributing to his classification as a high-risk individual within compliance frameworks.
+Usmanov has held key positions, including Chairman of Metalloinvest, and has maintained major stakes in companies such as Udokan Copper and MegaFon. His activities in critical sectors contribute to his classification as a high-risk individual within international compliance frameworks.
 
-Usmanov has been subject to sanctions by several international jurisdictions. The European Union imposed sanctions in 2022, citing his close links to the Russian political leadership and his role as a prominent business figure benefiting from the system. The United Kingdom also introduced asset freezes and travel restrictions in the same period. Similarly, the United States has applied restrictions through sanctions-related measures targeting individuals connected to the Russian economic and political environment.
+Usmanov has been designated under multiple sanctions regimes:
 
-These sanctions have included asset freezes, restrictions on financial transactions, and limitations on access to international financial systems. In addition, various luxury assets reportedly linked to Usmanov, such as real estate and yachts, have been targeted under enforcement actions.
+- European Union (February 28, 2022)  
+- United Kingdom (March 3, 2022)  
+- United States (OFAC) (March 3, 2022)  
+- Canada (March 14, 2022)  
 
-From a compliance perspective, Usmanov represents a classic example of an oligarchic PEP, where substantial private wealth intersects with political exposure. Compared to other figures, his case highlights how sanctions frameworks address individuals who may not hold formal political office but are still considered influential within the broader state-linked economic structure.
+According to official designations, Usmanov is described as a pro-Kremlin business figure with reported links to senior political leadership. Sanctions introduced by the EU and the UK cite his role in sectors that are considered important to the Russian economy, as well as his position as a beneficiary of the existing economic system.
 
-Overall, the designation of Usmanov across multiple jurisdictions reflects a consistent approach to identifying high-net-worth individuals with potential political connections as elevated risk subjects within AML systems.
+The United States designated Usmanov under Executive Order 14024 for operating in the metals and mining sector of the Russian Federation economy. These measures resulted in asset freezes, restrictions on financial transactions, and limitations on international business activities.
+
+Sanctions enforcement has also targeted high-value assets reportedly associated with Usmanov, including real estate and maritime property, reflecting a broader approach focused on restricting access to global wealth and financial systems.
+
+From an analytical perspective, Usmanov represents a typical example of an oligarchic PEP, where private wealth intersects with political exposure. His rapid designation across multiple jurisdictions demonstrates a coordinated response among Western sanctions regimes, particularly during the early phase of the 2022 measures.
+
+Compared to political office holders, sanctions applied to Usmanov place a stronger emphasis on private asset restrictions, illustrating differences in how economic and political actors are treated within AML and sanctions frameworks.

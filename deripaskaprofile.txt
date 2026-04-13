@@ -1,13 +1,20 @@
 3.1 Oleg Deripaska
 
-Oleg Deripaska is a Russian businessman and industrialist, best known as the founder of Basic Element and a major stakeholder in the aluminum company UC Rusal. He is widely classified as a politically exposed person (PEP) due to his significant economic influence and longstanding involvement in strategically important industries within the Russian economy.
+Oleg Deripaska is a Russian businessman and industrialist, primarily active in the aluminum, energy, and infrastructure sectors. He is considered a politically exposed person (PEP) due to his significant economic influence and involvement in industries of strategic importance to the Russian economy.
 
-Deripaska rose to prominence during the post-Soviet privatization period and became one of the key figures in Russia’s metals and energy sectors. His business interests extend across multiple industries, including aluminum production, energy, and infrastructure. Due to the strategic nature of these sectors, his activities are often considered closely linked to state economic priorities.
+Deripaska is best known as the founder of Basic Element and a major shareholder in UC Rusal, one of the world’s largest aluminum producers. His business activities span multiple sectors, including energy and construction, which are closely linked to national economic priorities. These factors contribute to his classification as a high-risk individual within international compliance frameworks.
 
-Deripaska has been subject to sanctions by multiple international jurisdictions. In 2018, the United States imposed sanctions through the Office of Foreign Assets Control (OFAC), citing his association with the Russian government and involvement in key economic sectors. These measures included asset freezes and restrictions on business operations. Although certain corporate entities linked to Deripaska were later subject to restructuring agreements, the individual sanctions against him have largely remained in place.
+Deripaska has been designated under multiple sanctions regimes:
 
-Following the escalation of the conflict in Ukraine in 2022, additional sanctions were introduced by the European Union and the United Kingdom. These measures included asset freezes, travel bans, and broader financial restrictions. Similar actions were also taken by other jurisdictions, including Canada and Australia.
+- United States (OFAC) (April 6, 2018)  
+- European Union (2022)  
+- United Kingdom (2022)  
+- Canada and Australia (2022)  
 
-From a compliance perspective, Deripaska represents a typical case of an oligarchic PEP, where economic power intersects with political exposure. His designation across multiple jurisdictions highlights a high level of perceived risk within international AML frameworks. At the same time, the partial adjustment of sanctions on associated companies demonstrates how regulatory bodies may differentiate between individual accountability and corporate structures.
+The United States initially designated Deripaska under sanctions targeting individuals associated with the Russian government and key economic sectors. These measures included asset freezes and significant restrictions on business operations. While certain corporate entities linked to Deripaska were later subject to restructuring agreements, the individual designation has remained in place.
 
-Overall, this case illustrates the complexity of sanctions enforcement, particularly in situations where business networks and state interests are closely interconnected.
+Following the escalation of the conflict in Ukraine in 2022, additional sanctions were introduced by the European Union and the United Kingdom. These measures included asset freezes, travel bans, and restrictions on access to international financial systems.
+
+From an analytical perspective, Deripaska represents a characteristic example of an oligarchic PEP, where substantial private wealth intersects with political exposure through involvement in strategic industries. His case also highlights the complexity of sanctions enforcement, particularly in situations where corporate restructuring can partially mitigate restrictions on associated entities, while individual sanctions remain unchanged.
+
+Compared to other oligarchic figures, Deripaska’s profile illustrates how regulatory authorities may differentiate between corporate and individual accountability, reflecting a more nuanced approach within modern AML and sanctions frameworks.
