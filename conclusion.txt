@@ -6,4 +6,4 @@ The findings suggest that while senior political figures are consistently target
 
 At the same time, this research represents an introductory analysis based on open-source information. Further study could expand the scope by including additional jurisdictions, deeper network analysis, and more detailed financial data. Such approaches would provide a more comprehensive understanding of how PEP-related risks are identified and managed in practice.
 
-Overall, this project reflects a growing interest in the fields of OSINT-based research and regulatory compliance, and highlights the importance of structured analysis in understanding complex financial and political systems.
+In the end, this project reflects a growing interest in the fields of OSINT-based research and regulatory compliance, and highlights the importance of structured analysis in understanding complex financial and political systems.
